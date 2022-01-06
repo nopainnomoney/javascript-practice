@@ -15,7 +15,7 @@
 // e.g. creatCardAndPoint -> creatCard, createPoint
 // function is object in JS
 function printHello() {
-    console.log('Helle');
+    console.log('Hello');
 }
 printHello();
 

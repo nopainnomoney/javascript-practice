@@ -1,11 +1,11 @@
-// procidual language
+// procedual language
 // function - sub-programming
 // function - input(파라미터)를 받아서 output을 내는 것
 // 인풋 아웃풋 함수의 이름 잘 정하는 것 중요
 
 // -fundamental building block in the program
 // -프로그램을 구성하는 기본적인 빌딩블럭
-// -subprogram cna be used multiple times
+// -subprogram can be used multiple times
 // -performs a task or calculates a value
 
 // 1. Function declaration 
